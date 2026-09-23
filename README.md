@@ -20,4 +20,10 @@ python magnify.py evm/config/evm_config.yaml data/input.mp4 magnified/magnified.
 ```
 
 ### Magnification results
-![Original vs Magnified comparison](artifacts/evm.gif)
+<p align="center">
+  <img
+    src="artifacts/evm.gif"
+    alt="Original vs Magnified comparison"
+    width="1000"
+  />
+</p>
